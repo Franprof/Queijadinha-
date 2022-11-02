@@ -2,7 +2,7 @@
 Receita escolhida para fazer a implementação do GE
 <h1>Queijadinha</h1> 
 <p><em><stong>Ingredientes</stong></em></p>
-<p>3 ovos</p>
+<p>3 ovos</p><img src="https://thumbs.dreamstime.com/b/tr%C3%AAs-ovos-de-brown-16869672.jpg" width=150 height="150">
 <p>100g  de manteiga sem sal, em temperatura ambiente</p>
 <p>8 colheres (sopa) de farinha de trigo</p>
 <p>1 xícara (chá) de queijo parmesão ralado</p>
